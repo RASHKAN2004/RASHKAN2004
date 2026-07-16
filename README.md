@@ -1,46 +1,33 @@
-# Hi 👋 I'm MR_RASHKAN
+# 👋 Hi, I'm MRM RASHKAN
 
-🎓 ICT Undergraduate  
-💻 Full Stack Developer  
-🚀 Interested in Software Engineering & AI
+🚀 **ICT Undergraduate | Full-Stack Developer | Software Engineering Enthusiast**
 
+I am a passionate Information and Communication Technology undergraduate at the **University of Ruhuna**, interested in building scalable, efficient, and user-friendly software solutions.
 
-## About Me
+💻 **Technical Skills**
 
-- 🌱 Currently learning Full Stack Development
-- 💻 Working with PHP, MySQL, JavaScript
-- 🎯 Building University LMS System
-- 🤖 Exploring Artificial Intelligence
+* Frontend Development: HTML, CSS, JavaScript
+* Backend Development: PHP, Node.js
+* Database Management: MySQL, SQL
+* Programming Languages: C, JavaScript, PHP
+* Tools & Technologies: Git, GitHub, VS Code, XAMPP
 
+🛠️ **Projects & Experience**
 
-## Skills
+* 🎓 University Learning Management System (LMS)
+* 🏫 University Management System
+* ♻️ Waste Management System
+* 🌐 Full-Stack Web Applications
 
-Programming:
-- C
-- JavaScript
-- PHP
-- SQL
+📚 Currently learning:
 
-Frontend:
-- HTML
-- CSS
-- Bootstrap
+* Advanced Web Development
+* Data Structures & Algorithms
+* Software Engineering Practices
+* Database Optimization
 
-Backend:
-- PHP
-- MySQL
+🎯 My goal is to become a skilled software engineer by continuously improving my programming skills, solving real-world problems, and creating impactful digital solutions.
 
+📫 Let's connect and collaborate on innovative projects!
 
-## Projects
-
-🎓 University Learning Management System
-
-🏫 University Management System
-
-♻️ Waste Management System
-
-
-## Connect With Me
-
-GitHub:
-RASHKAN2004
+⭐ "Learning, Building, and Improving Every Day."
