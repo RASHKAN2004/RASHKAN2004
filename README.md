@@ -12,13 +12,13 @@
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-raskhan-mohamed-raskhan-90417138b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAV%2FLmFCdRraMonpBwa67qg%3D%3D)">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mmohamedraskhan@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
