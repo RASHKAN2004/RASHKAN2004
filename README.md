@@ -1,339 +1,245 @@
-<!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ========================================================= -->
+ <div align="center">
 
-<div align="center">
+<!-- ═══════════════ ANIMATED HERO BANNER ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F172A,65:1E3A8A,100:0EA5E9&text=MRM%20RASHKAN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ICT%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=21&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020B0A,35:063B32,70:087F68,100:00F5B8&text=MRM%20RASHIKAN&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&stroke=00F5B8&strokeWidth=1&desc=ICT%20UNDERGRADUATE%20%7C%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=60&descColor=9BFFE4" />
 
-<br>
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;Software+Engineering+Enthusiast+%F0%9F%9A%80;Web+Application+Developer+%F0%9F%8C%90;Data+Structures+%26+Algorithms+Learner+%F0%9F%A7%A0;Always+Learning.+Always+Building.+Always+Improving.+%E2%9C%A8"/>
-
-<br><br>
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-raskhan-mohamed-raskhan-90417138b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAV%2FLmFCdRraMonpBwa67qg%3D%3D)">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00F5B8&center=true&vCenter=true&width=750&height=55&lines=Full-Stack+Developer+%F0%9F%92%BB;Java+%7C+PHP+%7C+JavaScript+Developer;Building+Modern+Web+Applications;Software+Engineering+Enthusiast;Turning+Ideas+Into+Working+Software;Always+Learning.+Always+Building." alt="Animated Typing Text" />
 </a>
 
-&nbsp;
+<br/>
 
-<a href="mmohamedraskhan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-00D9A6?style=for-the-badge&labelColor=061512" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00D9A6?style=for-the-badge&labelColor=061512" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-00D9A6?style=for-the-badge&labelColor=061512" />
+
+<br/><br/>
+
+**Bridging the gap between ideas, technology, and impactful software.**
+
+*I design, develop, and explore digital solutions while continuously growing as a software developer.*
+
+<br/>
+
+<a href="https://github.com/RASUKAN2004">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D9A6?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-
-&nbsp;
-
-<a href="https://github.com/RASHKAN2004">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=RASHKAN2004&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"/>
 
 </div>
-
-<br>
 
 ---
 
-<!-- ========================================================= -->
-<!--                         INTRO                             -->
-<!-- ========================================================= -->
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+<h2 align="center">◈ &nbsp; ABOUT ME &nbsp; ◈</h2>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+name: MRM Rashikan
+username: RASUKAN2004
+
+role:
+  - ICT Undergraduate
+  - Full-Stack Developer
+  - Software Engineering Enthusiast
+
+interests:
+  - Web Development
+  - Object-Oriented Programming
+  - Database Management
+  - Problem Solving
+  - Modern Software Systems
+
+currently_focusing:
+  - Building Real-World Projects
+  - Improving Coding Skills
+  - Learning New Technologies
+
+motto: "Build. Learn. Innovate. Repeat."
+```
+
+- 🎓 ICT Undergraduate at the University of Ruhuna.
+- 💻 Interested in frontend and backend development.
+- ⚙️ Practising programming, databases, and software design.
+- 🚀 Building projects to turn ideas into practical applications.
+- 🧠 Improving problem-solving and algorithmic thinking.
+- 🌱 Exploring modern technologies and software engineering practices.
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+<h2 align="center">◈ &nbsp; TECH STACK & TOOLS &nbsp; ◈</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=%3C+Hello%2C+World!+%2F%3E;%3C+Welcome+to+my+GitHub+%F0%9F%91%8B+%2F%3E"/>
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+
+### BACKEND & PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=java,php,c,cpp,nodejs&theme=dark" />
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,idea&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Programming-Problem%20Solving-00D9A6?style=flat-square&labelColor=061512" />
+<img src="https://img.shields.io/badge/Development-Responsive%20Web-00D9A6?style=flat-square&labelColor=061512" />
+<img src="https://img.shields.io/badge/Version%20Control-Git-00D9A6?style=flat-square&labelColor=061512" />
 
 </div>
 
-<br>
+---
+
+<!-- ═══════════════ WHAT I DO ═══════════════ -->
+
+<h2 align="center">◈ &nbsp; WHAT I DO &nbsp; ◈</h2>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="55%">
+### 💻 Full-Stack Development
 
-# 👋 Hey, I'm Rashkan
-
-I'm an **Information and Communication Technology undergraduate at the University of Ruhuna**, passionate about software development, modern web technologies and building real-world applications.
-
-I enjoy transforming ideas into working software and continuously improving my programming, problem-solving and software engineering skills.
-
-### 💻 What I Do
-
-- 🎓 ICT Undergraduate
-- 💻 Full-Stack Development
-- ☕ Java Development
-- 🌐 Web Application Development
-- 🧠 Data Structures & Algorithms
-- 🏗️ Software Engineering
-- 🗄️ Database Development
-- 🚀 Real-World Projects
+Building responsive web interfaces and learning to connect frontend applications with backend services and databases.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="45%" align="center">
+### ☕ Java & OOP
 
-<img src="https://github.com/RASHKAN2004.png" width="230" height="230"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Code+%E2%86%92+Learn+%E2%86%92+Build;Solve+%E2%86%92+Improve+%E2%86%92+Repeat"/>
-
-<br>
-
-📍 **Puttalam, Sri Lanka**
-
-🎓 **University of Ruhuna**
-
-💻 **Full-Stack Developer**
-
-☕ **Java Developer**
+Practising object-oriented programming, reusable components, data structures, and clean coding principles.
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🗄️ Database Development
+
+Working with relational databases, SQL queries, data management, and application integration.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Continuous Learning
+
+Exploring modern development tools, building projects, and improving software engineering skills.
+
+</td>
 </tr>
 </table>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TECH STACK                          -->
-<!-- ========================================================= -->
+<!-- ═══════════════ GITHUB STATISTICS ═══════════════ -->
 
-# 🛠️ Tech Stack
+<h2 align="center">◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RASUKAN2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=C9D1D9&rank_icon=github" />
 
-<img src="https://skillicons.dev/icons?i=java,c,js,php&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASUKAN2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9A6&text_color=C9D1D9" />
 
-<br><br>
+<br/><br/>
 
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img width="80%" src="https://streak-stats.demolab.com?user=RASUKAN2004&hide_border=true&background=0D1117&ring=00D9A6&fire=00F5B8&currStreakLabel=00D9A6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    TECHNOLOGY BADGES                      -->
-<!-- ========================================================= -->
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
 
-# ⚡ Technologies
+<h2 align="center">◈ &nbsp; CONTRIBUTION ACTIVITY &nbsp; ◈</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RASUKAN2004&bg_color=0D1117&color=00D9A6&line=00D9A6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20DEVELOPMENT%20JOURNEY" />
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     WHAT I BUILD                          -->
-<!-- ========================================================= -->
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 
-# 🚀 What I Build
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/source-code.png"/>
-
-### Web Apps
-
-Modern and user-friendly web applications.
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/java-coffee-cup-logo.png"/>
-
-### Java Apps
-
-Object-oriented and database-driven applications.
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/database.png"/>
-
-### Database Systems
-
-Structured and efficient data management.
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/brain.png"/>
-
-### Problem Solving
-
-DSA, algorithms and programming challenges.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                     FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
+<h2 align="center">◈ &nbsp; FEATURED PROJECTS &nbsp; ◈</h2>
 
 <div align="center">
 
-<table>
+<a href="https://github.com/RASUKAN2004?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00D9A6?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-<tr>
+<br/><br/>
 
-<td width="50%">
+<a href="https://github.com/RASUKAN2004?tab=repositories">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RASUKAN2004&repo=OOPP-2026-GP-10&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=C9D1D9" />
+</a>
 
-<h3>🎓 University Learning Management System</h3>
+</div>
 
-<p>
-A full-stack web application designed to manage university learning activities and resources.
-</p>
+> **Add your best projects:** Pin your actual repositories on your GitHub profile. Replace or supplement the project card above with your own public project repository names and descriptions.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+---
 
-</td>
+<!-- ═══════════════ DEVELOPER QUOTE ═══════════════ -->
 
-<td width="50%">
+<h2 align="center">◈ &nbsp; DEVELOPER MINDSET &nbsp; ◈</h2>
 
-<h3>🏫 University Management System</h3>
+<div align="center">
 
-<p>
-A software solution designed to manage university-related information and activities.
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/><br/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>♻️ Waste Management System</h3>
-
-<p>
-A web-based solution focused on improving waste collection and management processes.
-</p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-
-<td width="50%">
-
-<h3>🛒 E-Commerce Application</h3>
-
-<p>
-A full-stack e-commerce application with product, user and order management.
-</p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</td>
-
-</tr>
-
-</table>
+**"Great software is built one improvement at a time."**
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   CURRENTLY LEARNING                      -->
-<!-- ========================================================= -->
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
-# 📚 Currently Learning
+<h2 align="center">◈ &nbsp; LET'S CONNECT &nbsp; ◈</h2>
 
 <div align="center">
 
-<table>
+<a href="https://github.com/RASUKAN2004">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-00D9A6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<tr>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<td width="33%" align="center">
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-### ☕ Development
+<br/><br/>
 
-```text
-Advanced Java
-Full-Stack Development
-REST APIs
-Authentication
+<img src="https://komarev.com/ghpvc/?username=RASUKAN2004&label=PROFILE%20VIEWS&color=00D9A6&style=for-the-badge" />
+
+<br/><br/>
+
+### ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5B8,50:087F68,100:020B0A&height=120&section=footer" />
+
+</div>
