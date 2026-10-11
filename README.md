@@ -24,7 +24,7 @@
 
 <br/>
 
-<a href="https://github.com/RASUKAN2004">
+<a href="https://github.com/RASHKAN2004">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-00D9A6?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
@@ -39,8 +39,8 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-name: MRM Rashikan
-username: RASUKAN2004
+name: MRM Rashkan
+username: RASHKAN2004
 
 role:
   - ICT Undergraduate
